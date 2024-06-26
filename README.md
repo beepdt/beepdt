@@ -8,7 +8,7 @@ I am a beginner programmer currently delving into android development.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [info.deeptangshu@gmail.com](mailto:info.deeptangshu@gmail.com)
-* 🧠  I'm learning Flutter,Java,Blender
+* 🧠  I'm learning Kotlin
 
 ### Skills
 
