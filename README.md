@@ -55,6 +55,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/beepdt/beepdt/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
+
 
 ###
