@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Deeptangshu</h1>
-<h3 align="center">A full stack developer working from India.</h3>
+<h1 align="start">Hi 👋, I'm Deeptangshu</h1>
+<h3 align="start">A full stack developer working from India.</h3>
 
 - I design **and build whatever catches my idea at the time**
 
