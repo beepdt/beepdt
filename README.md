@@ -1,11 +1,11 @@
 <h1 align="start">Hi 👋, I'm Deeptangshu</h1>
 <h3 align="start">A full stack developer working from India.</h3>
 
-- I design **and build whatever catches my idea at the time**
+- I design **and build whatever catches my eye at the time**
 
-- I work in the JavaScript ecosystem. **My current tech stack is Typescript, NextJS, NodeJS, Expressjs.**
+- I work in the JavaScript ecosystem. **My current tech stack is Typescript, NextJS, NodeJS, ExpressJS.**
 
-- I design in **Figma and Rive making interactive experiences on the web.**
+- I design in **Figma and Rive, making interactive experiences on the web.**
 
 
 <p align="left">
